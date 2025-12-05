@@ -49,7 +49,7 @@ const Navigation = () => {
                 <Package className="w-3 h-3 text-porch-orange absolute bottom-1 right-1" strokeWidth={2.5} />
               </div>
               <span className="font-bold text-lg text-porch-blue hidden sm:block">
-                PorchPickup
+                PorchPickup Storage
               </span>
             </a>
 
